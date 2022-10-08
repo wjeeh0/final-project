@@ -1,0 +1,43 @@
+
+  .container{
+    width: 1000px ;
+    height: 500px;
+    margin: 0 auto;
+    
+    
+    }
+            .col{
+                width: 270px;
+                height: 200px;
+                background-color: turquoise;
+                float: left;
+                border: 1px solid black;
+                margin: 30px;
+                font-weight: 800;
+    
+            }
+    p{
+        text-align: right;
+        padding: 0;
+        margin: 0;
+        
+    }
+    #f{
+        background-color:black;
+        color: white;
+    }
+    #s{
+        background-color: black;
+        color: white;
+    }
+    #t{
+        background-color: black;
+        color: white;
+    }
+    h1{
+        text-align: center;
+        
+    }
+    
+    
+    
